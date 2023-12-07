@@ -3,25 +3,27 @@
         <active>true</active>
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
-        <condition/>
-        <description>Allow create for records in x_1258869_gest_o_0_pedidos, for users with roles (x_1258869_gest_o_0.analistas_role, x_1258869_gest_o_0.supervisores_role).</description>
+        <condition table="x_1258869_gest_o_0_pedidos">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
         <local_or_existing>Local</local_or_existing>
         <name>x_1258869_gest_o_0_pedidos</name>
-        <operation display_value="create">create</operation>
+        <operation display_value="write">write</operation>
         <script/>
         <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-12-07 17:34:15</sys_created_on>
-        <sys_id>502e569847c3f1100f9e930f316d43ea</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_created_on>2023-12-07 20:10:53</sys_created_on>
+        <sys_id>dde187d44787f1100f9e930f316d43c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_1258869_gest_o_0_pedidos</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
-        <sys_update_name>sys_security_acl_502e569847c3f1100f9e930f316d43ea</sys_update_name>
+        <sys_update_name>sys_security_acl_dde187d44787f1100f9e930f316d43c5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-07 19:39:11</sys_updated_on>
+        <sys_updated_on>2023-12-07 20:10:53</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
