@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_attribute">
+    <sys_security_attribute action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition>Role=cfa0fd5c47cfb1100f9e930f316d43f9</condition>
+        <description>Auto Created Attribute - ACL_dac89ed047c3f1100f9e930f316d43ce</description>
+        <is_dynamic>true</is_dynamic>
+        <is_localized>true</is_localized>
+        <is_system>false</is_system>
+        <label>ACL_dac89ed047c3f1100f9e930f316d43ce</label>
+        <lookup_table/>
+        <lookup_table_column/>
+        <name>x_1258869_gest_o_0__ACL_dac89ed047c3f1100f9e930f316d43ce</name>
+        <script/>
+        <sys_class_name>sys_security_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 18:15:34</sys_created_on>
+        <sys_id>a597aad44707f1100f9e930f316d430e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1258869_gest_o_0__ACL_dac89ed047c3f1100f9e930f316d43ce</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
+        <sys_update_name>sys_security_attribute_a597aad44707f1100f9e930f316d430e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 18:15:34</sys_updated_on>
+        <type>compound</type>
+    </sys_security_attribute>
+</record_update>
