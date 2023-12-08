@@ -91,5 +91,24 @@
             <sys_updated_on>2023-12-06 15:41:01</sys_updated_on>
             <value>3</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>None</label>
+            <language>en</language>
+            <name>x_1258869_gest_o_0_pedidos</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-08 14:59:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-08 14:59:07</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
     </sys_choice>
 </record_update>
