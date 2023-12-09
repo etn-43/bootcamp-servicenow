@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rel_widget_clone">
     <sp_rel_widget_clone action="INSERT_OR_UPDATE">
-        <child display_value="Inventario Menu">6831d9c94747b5100f9e930f316d43f8</child>
-        <cloned>2023-12-09 19:53:35</cloned>
-        <last_validated>2023-12-09 19:53:35</last_validated>
+        <child display_value="Inventario Menu">d70579c5470bb5100f9e930f316d43a3</child>
+        <cloned>2023-12-09 22:30:14</cloned>
+        <last_validated>2023-12-09 22:30:14</last_validated>
         <parent display_value="Header Menu">5ef595c1cb12020000f8d856634c9c6e</parent>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;sp_widget&gt;&lt;category&gt;standard&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function ($scope, spUtil, $rootScope, $timeout, spAriaUtil, spGtd, $window, i18n) {
 	var KEY_ENTER = 13;
@@ -519,15 +519,15 @@
 &lt;/ul&gt;]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;</payload>
         <sys_class_name>sp_rel_widget_clone</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-12-09 19:53:35</sys_created_on>
-        <sys_id>7c315d4d4747b5100f9e930f316d43f5</sys_id>
+        <sys_created_on>2023-12-09 22:30:14</sys_created_on>
+        <sys_id>db0579c5470bb5100f9e930f316d43a9</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>6831d9c94747b5100f9e930f316d43f8</sys_name>
+        <sys_name>d70579c5470bb5100f9e930f316d43a3</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
-        <sys_update_name>sp_rel_widget_clone_7c315d4d4747b5100f9e930f316d43f5</sys_update_name>
+        <sys_update_name>sp_rel_widget_clone_db0579c5470bb5100f9e930f316d43a9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-09 19:53:35</sys_updated_on>
+        <sys_updated_on>2023-12-09 22:30:14</sys_updated_on>
     </sp_rel_widget_clone>
 </record_update>

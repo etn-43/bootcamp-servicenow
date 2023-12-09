@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
     <sp_widget action="INSERT_OR_UPDATE">
         <category>standard</category>
-        <client_script><![CDATA[function inventario ($scope, spUtil, $rootScope, $timeout, spAriaUtil, spGtd, $window, i18n) {
+        <client_script><![CDATA[function inventarioMenu($scope, spUtil, $rootScope, $timeout, spAriaUtil, spGtd, $window, i18n) {
 	var KEY_ENTER = 13;
 	$scope.collapse = function() {
 		$rootScope.$emit('sp-navbar-collapse');
@@ -37,9 +37,6 @@
 	$scope.$on('sp_loading_indicator', function(e, value) {
 		$scope.loadingIndicator = value;
 	});
-	function setCartTooltipVisibility(value) {
-		$("#cart-dropdown").tooltip(value ? "show": "hide");
-	};
 	$scope.toggleTours = function() {
 		var action = $scope.toursTooltipEnabled ? 'disable' : 'enable';
 		$scope.toursTooltipEnabled = $scope.toursTooltipEnabled ? false : true;
@@ -269,7 +266,7 @@
         <has_preview>false</has_preview>
         <id/>
         <internal>false</internal>
-        <link><![CDATA[function inventario(scope, elem) {
+        <link><![CDATA[function inventarioMenu(scope, elem) {
 		function isMDScreenSize() {
 		return window.matchMedia('(max-width: 992px)').matches;
 	}
@@ -354,10 +351,6 @@
 		var targetMenuItem = next ? allMenuItems.eq(indexMenuItem + 1) : allMenuItems.eq(indexMenuItem - 1);
 		var menuItemToFocus = targetMenuItem.length ? targetMenuItem : next ? firstMenuItem: lastMenuItem; //enable circular navigation
 
-		if (mdScreenSize && targetInSubmenu) {
-			targetMenuItem = next ? currentMenuItem.nextAll('li:visible').first() : currentMenuItem.prevAll('li:visible').first();
-			menuItemToFocus = targetMenuItem.length ? targetMenuItem : next ? firstSubmenuItem: lastSubmenuItem; //enable circular navigation
-		}
 		menuItemToFocus.find('a').focus();
 	}
 
@@ -422,16 +415,16 @@
         <servicenow>false</servicenow>
         <sys_class_name>sp_widget</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-12-09 19:53:35</sys_created_on>
-        <sys_id>6831d9c94747b5100f9e930f316d43f8</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_created_on>2023-12-09 22:30:14</sys_created_on>
+        <sys_id>d70579c5470bb5100f9e930f316d43a3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Inventario Menu</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
-        <sys_update_name>sp_widget_6831d9c94747b5100f9e930f316d43f8</sys_update_name>
+        <sys_update_name>sp_widget_d70579c5470bb5100f9e930f316d43a3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-09 19:57:21</sys_updated_on>
+        <sys_updated_on>2023-12-09 22:48:57</sys_updated_on>
         <template><![CDATA[<ul class="nav navbar-nav" aria-label="${Header}" role="menubar">
   <div class="header-loader" ng-class="{'invisible': !loadingIndicator}">
     <div class="hidden-xs hidden-sm sp-loading-indicator la-sm">
