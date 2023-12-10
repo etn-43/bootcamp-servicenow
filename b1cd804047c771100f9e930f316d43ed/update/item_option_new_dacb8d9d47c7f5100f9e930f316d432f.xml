@@ -56,8 +56,8 @@
         <record/>
         <record_producer_table>x_1258869_gest_o_0_pedidos</record_producer_table>
         <reference>sys_user</reference>
-        <reference_qual>nameSTARTSWITH^EQ</reference_qual>
-        <reference_qual_condition table="sys_user">nameSTARTSWITH^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value=""/>
+        <reference_qual>first_nameSTARTSWITH^EQ</reference_qual>
+        <reference_qual_condition table="sys_user">first_nameSTARTSWITH^EQ<item endquery="false" field="first_name" goto="false" newquery="false" operator="STARTSWITH" or="false" value=""/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </reference_qual_condition>
         <rich_text/>
@@ -79,14 +79,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-10 14:15:08</sys_created_on>
         <sys_id>dacb8d9d47c7f5100f9e930f316d432f</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Selecione um analista para seu pedido.</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
         <sys_update_name>item_option_new_dacb8d9d47c7f5100f9e930f316d432f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-10 15:31:30</sys_updated_on>
+        <sys_updated_on>2023-12-10 17:51:11</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>
