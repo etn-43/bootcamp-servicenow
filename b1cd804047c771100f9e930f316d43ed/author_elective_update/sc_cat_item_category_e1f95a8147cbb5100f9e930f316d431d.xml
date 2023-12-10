@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Produtos de Computador">71b6164d478bb5100f9e930f316d43df</sc_cat_item>
+        <sc_category display_value="Mobiles">d68eb4d637b1300054b6a3549dbe5db2</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 01:11:29</sys_created_on>
+        <sys_id>e1f95a8147cbb5100f9e930f316d431d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Mobiles.Produtos de Computador</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
+        <sys_update_name>sc_cat_item_category_e1f95a8147cbb5100f9e930f316d431d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 01:11:43</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</application>
+        <file_path/>
+        <instance_id>46ff7566db36f15402d91729139619e9</instance_id>
+        <instance_name>dev231724</instance_name>
+        <name>sc_cat_item_category_e1f95a8147cbb5100f9e930f316d431d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Produtos de Computador">71b6164d478bb5100f9e930f316d43df</sc_cat_item><sc_category display_value="Mobiles">d68eb4d637b1300054b6a3549dbe5db2</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-10 01:11:29</sys_created_on><sys_id>e1f95a8147cbb5100f9e930f316d431d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Mobiles.Produtos de Computador</sys_name><sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope><sys_update_name>sc_cat_item_category_e1f95a8147cbb5100f9e930f316d431d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-10 01:11:43</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1038584639</payload_hash>
+        <record_name>Mobiles.Produtos de Computador</record_name>
+        <reverted_from/>
+        <source>b80a9a8147cbb5100f9e930f316d43ef</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 01:11:43</sys_created_on>
+        <sys_id>c10ada8147cbb5100f9e930f316d43ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5147b83a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 01:11:43</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>850ada819bcbb510cfef2a29374a46b9</update_guid>
+        <update_guid_history>850ada819bcbb510cfef2a29374a46b9:1038584639</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Mobiles.Produtos de Computador">e6bf964947cbb5100f9e930f316d4331</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 01:36:40</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>04e6d759a0fd4e14b1df0a803342f210</sys_id>
+        <sys_metadata>e1f95a8147cbb5100f9e930f316d431d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobiles.Produtos de Computador</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
+        <sys_scope_delete display_value="">63e88dbf5a284fd4a20ddbe7a32cf490</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_e1f95a8147cbb5100f9e930f316d431d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_e1f95a8147cbb5100f9e930f316d431d">c10ada8147cbb5100f9e930f316d43ba</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 01:36:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
