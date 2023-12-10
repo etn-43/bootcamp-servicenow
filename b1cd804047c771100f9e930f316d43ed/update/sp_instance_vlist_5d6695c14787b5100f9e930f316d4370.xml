@@ -15,7 +15,7 @@
         <order_direction>asc</order_direction>
         <roles/>
         <short_description/>
-        <size>lg</size>
+        <size>md</size>
         <sp_column display_value="1">c6651d814787b5100f9e930f316d4369</sp_column>
         <sp_page display_value="form">ed5f8ec347730200ba13a5554ee49046</sp_page>
         <sp_widget display_value="Simple List">5b255672cb03020000f8d856634c9c28</sp_widget>
@@ -23,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-09 20:16:17</sys_created_on>
         <sys_id>5d6695c14787b5100f9e930f316d4370</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
         <sys_update_name>sp_instance_vlist_5d6695c14787b5100f9e930f316d4370</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-09 21:20:53</sys_updated_on>
+        <sys_updated_on>2023-12-10 13:13:27</sys_updated_on>
         <table>x_1258869_gest_o_0_produtos</table>
         <title/>
         <url/>
