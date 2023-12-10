@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>quantidade</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 11:28:08</sys_created_on>
+        <sys_id>866d1bf4474f75100f9e930f316d4362</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>quantidade</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
+        <sys_update_name>sys_ui_policy_action_866d1bf4474f75100f9e930f316d4362</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 11:28:08</sys_updated_on>
+        <table>x_1258869_gest_o_0_produtos</table>
+        <ui_policy display_value="Esconde todos os campos de escrita de Produtos do Administrador.">be1cdf74474f75100f9e930f316d434c</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</application>
+        <file_path/>
+        <instance_id>46ff7566db36f15402d91729139619e9</instance_id>
+        <instance_name>dev231724</instance_name>
+        <name>sys_ui_policy_action_866d1bf4474f75100f9e930f316d4362</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>quantidade</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 11:28:08</sys_created_on><sys_id>866d1bf4474f75100f9e930f316d4362</sys_id><sys_mod_count>0</sys_mod_count><sys_name>quantidade</sys_name><sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope><sys_update_name>sys_ui_policy_action_866d1bf4474f75100f9e930f316d4362</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-09 11:28:08</sys_updated_on><table>x_1258869_gest_o_0_produtos</table><ui_policy display_value="Esconde todos os campos de escrita de Produtos do Administrador.">be1cdf74474f75100f9e930f316d434c</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1821839827</payload_hash>
+        <record_name>quantidade</record_name>
+        <reverted_from/>
+        <source>f1ac8dc447cb71100f9e930f316d431a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 11:28:08</sys_created_on>
+        <sys_id>b48d5fb4474f75100f9e930f316d43c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c4e55b31b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 11:28:08</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>f88d5fb4674f75103fcd8e45fb916cc5</update_guid>
+        <update_guid_history>f88d5fb4674f75103fcd8e45fb916cc5:-1821839827</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 18:12:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>d82fb2baf14948a0830c7d3394ba2100</sys_id>
+        <sys_metadata>866d1bf4474f75100f9e930f316d4362</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>quantidade</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
+        <sys_parent display_value="Esconde o campo state.">be1cdf74474f75100f9e930f316d434c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
+        <sys_scope_delete display_value="">63e88dbf5a284fd4a20ddbe7a32cf490</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_866d1bf4474f75100f9e930f316d4362</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_866d1bf4474f75100f9e930f316d4362">b48d5fb4474f75100f9e930f316d43c6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 18:12:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

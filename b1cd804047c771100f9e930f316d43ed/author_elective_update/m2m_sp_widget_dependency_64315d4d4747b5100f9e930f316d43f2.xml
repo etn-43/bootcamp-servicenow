@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="DELETE">
+        <sp_dependency display_value="angular-truncate">09e1f1416712220023c82e08f585ef1e</sp_dependency>
+        <sp_widget display_value="Copy of Header Menu">6831d9c94747b5100f9e930f316d43f8</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:53:35</sys_created_on>
+        <sys_id>64315d4d4747b5100f9e930f316d43f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>angular-truncate.Copy of Header Menu</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_64315d4d4747b5100f9e930f316d43f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:53:35</sys_updated_on>
+    </m2m_sp_widget_dependency>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</application>
+        <file_path/>
+        <instance_id>46ff7566db36f15402d91729139619e9</instance_id>
+        <instance_name>dev231724</instance_name>
+        <name>m2m_sp_widget_dependency_64315d4d4747b5100f9e930f316d43f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency"><m2m_sp_widget_dependency action="INSERT_OR_UPDATE"><sp_dependency display_value="angular-truncate">09e1f1416712220023c82e08f585ef1e</sp_dependency><sp_widget display_value="Copy of Header Menu">6831d9c94747b5100f9e930f316d43f8</sp_widget><sys_class_name>m2m_sp_widget_dependency</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 19:53:35</sys_created_on><sys_id>64315d4d4747b5100f9e930f316d43f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>angular-truncate.Copy of Header Menu</sys_name><sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope><sys_update_name>m2m_sp_widget_dependency_64315d4d4747b5100f9e930f316d43f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-09 19:53:35</sys_updated_on></m2m_sp_widget_dependency></record_update>]]></payload>
+        <payload_hash>-1504970531</payload_hash>
+        <record_name>angular-truncate.Copy of Header Menu</record_name>
+        <reverted_from/>
+        <source>f1ac8dc447cb71100f9e930f316d431a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:53:35</sys_created_on>
+        <sys_id>bc315d4d4747b5100f9e930f316d43f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c502472b20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:53:35</sys_updated_on>
+        <type>Widget Dependency</type>
+        <update_guid>f0315d4d6c47b510a58952787b5fdbf4</update_guid>
+        <update_guid_history>f0315d4d6c47b510a58952787b5fdbf4:-1504970531</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="angular-truncate.Copy of Header Menu">c09435c5470bb5100f9e930f316d43ee</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 22:28:05</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_widget_dependency">m2m_sp_widget_dependency</sys_db_object>
+        <sys_id>0dc9124e9f754a989d359130a9b7f440</sys_id>
+        <sys_metadata>64315d4d4747b5100f9e930f316d43f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>angular-truncate.Copy of Header Menu</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
+        <sys_scope_delete display_value="">63e88dbf5a284fd4a20ddbe7a32cf490</sys_scope_delete>
+        <sys_update_name>m2m_sp_widget_dependency_64315d4d4747b5100f9e930f316d43f2</sys_update_name>
+        <sys_update_version display_value="m2m_sp_widget_dependency_64315d4d4747b5100f9e930f316d43f2">bc315d4d4747b5100f9e930f316d43f4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 22:28:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>th-list</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">455599814787b5100f9e930f316d43d1</sp_column>
+        <sp_page display_value="list">b574e51147132100ba13a5554ee4903e</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 20:13:23</sys_created_on>
+        <sys_id>36b595014787b5100f9e930f316d43f0</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Lista de Pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258869_gest_o_0">b1cd804047c771100f9e930f316d43ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b1cd804047c771100f9e930f316d43ed</sys_scope>
+        <sys_update_name>sp_instance_link_36b595014787b5100f9e930f316d43f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 18:23:13</sys_updated_on>
+        <title>Lista de Pedidos</title>
+        <type>url</type>
+        <url>https://dev231724.service-now.com/gestao_inv?id=list&amp;table=x_1258869_gest_o_0_pedidos&amp;sys_id=-1</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=36b595014787b5100f9e930f316d43f0"/>
+</record_update>
